@@ -1,0 +1,3 @@
+/home/mohamedamer/CarrerDEvelopment/SelfStudyCourses/Programming_Languages/c++language/c++ courses/MultithreadingInCplusplus/Multithreading-Cpp-Course/modern_cpp_part_one/build/CMakeFiles/project.dir
+/home/mohamedamer/CarrerDEvelopment/SelfStudyCourses/Programming_Languages/c++language/c++ courses/MultithreadingInCplusplus/Multithreading-Cpp-Course/modern_cpp_part_one/build/CMakeFiles/edit_cache.dir
+/home/mohamedamer/CarrerDEvelopment/SelfStudyCourses/Programming_Languages/c++language/c++ courses/MultithreadingInCplusplus/Multithreading-Cpp-Course/modern_cpp_part_one/build/CMakeFiles/rebuild_cache.dir
